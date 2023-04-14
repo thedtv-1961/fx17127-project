@@ -1,1 +1,3 @@
-# fx17127-project
+# FX15127
+## Install
+`npm install`
